@@ -1,0 +1,19 @@
+main
+  │
+  ├── create branch
+  ▼
+features
+  │
+  ├── code changes
+  ├── git add .
+  ├── git commit
+  └── git push origin features
+          │
+          ▼
+      Pull Request
+          │
+          ▼
+       Merge
+          │
+          ▼
+         main
